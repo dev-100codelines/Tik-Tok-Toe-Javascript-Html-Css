@@ -1,0 +1,74 @@
+body{
+    background: url("assests/Austria-Hallstatt-evening-lake-houses-mountains-lights_1920x1080.jpg");
+    background-size: cover;
+}
+
+#head{
+    color: whitesmoke;
+    text-align: center;
+}
+
+.vertical{
+    border-right: 2.5px solid white;
+    border-left: 2.5px solid white;
+}
+
+.horizontal{
+    border-top: 2.5px solid white;
+    border-bottom: 2.5px solid white;
+}
+
+td{
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    font-size: 45px;
+}
+
+table{
+    padding-left: 35%;
+    padding-right: 35%;
+}
+
+div{
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+button{
+    border: none;
+    background: none;
+    text-transform: uppercase;
+    transition: all 0.8s;
+    font-weight: 750;
+    letter-spacing: 2px;
+    color: aquamarine;
+}
+
+button:hover{
+    color: white;
+    background-color: yellow;
+}
+
+.Xwin{
+    color: white;
+    background: darkcyan;
+    transition: all 0.8s;
+}
+
+.Owin{
+    color: white;
+    background: olive;
+    transition: all 0.8s;
+}
+
+
+.xboxred{
+    background-color:  darkcyan;
+    transition: all 1s;
+}
+
+.oboxred{
+    background-color:  olive;
+    transition: all 1s;
+}
